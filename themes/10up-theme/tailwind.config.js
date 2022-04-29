@@ -7,8 +7,9 @@ module.exports = {
 	content: [
 		'assets/**/*.js',
 		'**/*.php',
-		'includes/blocks/**/*.{js,php}',
-		'includes/block-*/**/*.{js,php}',
+		'includes/**/*.js',
+		'includes/blocks/**/*.php',
+		'includes/block-*/**/*.php',
 	],
 	theme: {
 		extend: {},

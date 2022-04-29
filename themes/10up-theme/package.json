@@ -29,7 +29,6 @@
   "10up-toolkit": {
     "entry": {
       "admin": "./assets/js/admin/admin.js",
-      "editor-style-overrides": "./assets/js/admin/editor-style-overrides.js",
       "blocks": "./includes/blocks/blocks.js",
       "frontend": "./assets/js/frontend/frontend.js",
       "frontend-style": "./assets/css/style.css",
