@@ -27,6 +27,7 @@ function getThemeColors() {
 }
 
 module.exports = {
+	content: [
 		'assets/**/*.js',
 		'**/*.php',
 		'includes/**/*.js',
