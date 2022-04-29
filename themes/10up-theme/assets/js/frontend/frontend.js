@@ -1,3 +1,3 @@
-import '../../css/frontend/style.css';
+import '../../css/style.css';
 
 // import foo from './components/bar';

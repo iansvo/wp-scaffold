@@ -20,4 +20,4 @@
 
 		<main id="main" role="main" tabindex="-1">
 
-			<h1><?php bloginfo( 'name' ); ?></h1>
+			<h1 class="text-4xl"><?php bloginfo( 'name' ); ?></h1>
