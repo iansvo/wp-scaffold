@@ -8,7 +8,18 @@
       "duotone": [],
       "gradients": [],
       "link": false,
-      "palette": []
+      "palette": [
+        {
+          "name": "Primary",
+          "slug": "primary",
+          "color": "rebeccapurple"
+        },
+        {
+          "name": "Secondary",
+          "slug": "secondary",
+          "color": "palevioletred"
+        }
+      ]
     },
     "custom": {},
     "layout": {
